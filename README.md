@@ -3,13 +3,13 @@
 This repository stores sequential algorithms and parallel algorithms (in the Coarse-Grained Multicomputer model) to solve the MCOP using the dynamic-programming technique. We have implemented many strategies :
 
 1.  Sequential algorithms :
-    - Godbole (dx.doi.org/10.1109/TC.1973.5009182)
-    - Yao's speed-up (dx.doi.org/10.1137/0603055)
+    - Godbole [dx.doi.org/10.1109/TC.1973.5009182](dx.doi.org/10.1109/TC.1973.5009182)
+    - Yao's speed-up [dx.doi.org/10.1137/0603055](dx.doi.org/10.1137/0603055)
     - Myoupo and Kengne's enhancement based on the Yao's speed-up (dx.doi.org/10.4018/ijghpc.2014040105)
     - Lacmou et *al.* based on the Yao's speed-up (our own)
 2.  CGM-based Parallel algorithms using the OpenMPI librairy:
-    - Kechid and Myoupo (https://www.amazon.fr/Programmation-dynamique-mod%C3%A8les-calcul-parall%C3%A8le/dp/6131592527/)
-    - Myoupo and Kengne (dx.doi.org/10.4018/ijghpc.2014040105)
+    - Kechid and Myoupo [amazon's book](https://www.amazon.fr/Programmation-dynamique-mod%C3%A8les-calcul-parall%C3%A8le/dp/6131592527/)
+    - Myoupo and Kengne [dx.doi.org/10.4018/ijghpc.2014040105](dx.doi.org/10.4018/ijghpc.2014040105)
 
 ## Build projects
 
