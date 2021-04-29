@@ -1,0 +1,36 @@
+{
+    "software": {
+        "soft-version": "1.1_stable",
+        "soft-name": "TCP SEQUENTIAL YAO SPEEDUP",
+        "soft-datecreate": "14 DECEMBER 2019",
+        "soft-devname": "Jerry Lacmou",
+        "soft-devmail": "jerrylacmou@gmail.com",
+        "soft-devphone": "(+237) 656463663",
+        "soft-dirname": "TCP-sequential/"
+    },
+    "datasets": {
+        "datasets-dir": "resources/datasets/",
+        "datasets-type": "dimensions/",
+        "datasets-dirname": "102401/",
+        "datasets-filename": "102401",
+        "datasets-extension": ".data",
+        "datasets-max-number-matrix": "102401",
+        "datasets-input": {
+            "datasets-input-id": "_5",
+            "datasets-input-max-number-matrix": "20480",
+            "datasets-input-algorithm": "1"
+        },
+        "datasets-create": {
+            "datasets-create-id": "_5"
+        }
+    },
+    "logger": {
+        "logger-dirname": "logs/",
+        "logger-filename": "TCP-SEQUENTIAL.log"
+    },
+    "output": {
+        "output-dirname": "output/",
+        "output-filename": "results",
+        "output-extension": ".csv"
+    }
+}

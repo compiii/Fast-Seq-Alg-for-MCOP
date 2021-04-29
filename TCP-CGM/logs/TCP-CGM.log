@@ -1,0 +1,760 @@
+[INFO] 	 main:96 	 Wed Apr 28 17:46:31 2021
+Yao's sequential algorithm input datas
+------------------------------
+the DAG is divided by Tmax/p
+------------------------------
+max number of matrix: 10240
+max number of process: 8
+
+[INFO] 	 main:112 	 Wed Apr 28 17:46:32 2021
+starting computation of Yao's sequential algorithm
+[INFO] 	 main:96 	 Wed Apr 28 17:46:52 2021
+Yao's sequential algorithm (Kengne et Myoupo'14) input datas
+------------------------------
+the DAG is divided by Tmax/p
+------------------------------
+max number of matrix: 10240
+max number of process: 8
+
+[INFO] 	 main:112 	 Wed Apr 28 17:46:53 2021
+starting computation of Yao's sequential algorithm (Kengne et Myoupo'14)
+[INFO] 	 main:96 	 Wed Apr 28 17:47:00 2021
+Yao's sequential algorithm input datas
+------------------------------
+the DAG is divided by Tint/p
+------------------------------
+max number of matrix: 10240
+max number of process: 8
+
+[INFO] 	 main:112 	 Wed Apr 28 17:47:02 2021
+starting computation of Yao's sequential algorithm
+[INFO] 	 main:96 	 Thu Apr 29 06:12:01 2021
+Yao's sequential algorithm input datas
+------------------------------
+the DAG is divided by Tmax/p
+------------------------------
+max number of matrix: 1024
+max number of process: 8
+
+[INFO] 	 main:110 	 Thu Apr 29 06:12:01 2021
+starting computation of Yao's sequential algorithm
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 3)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 4)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.006942
+------------------------------
+calcul time: 0.004583
+comunication time: 0.000070
+idleness time: 0.002289
+calcul rate: 66.011160
+comunication rate: 1.014704
+idleness rate: 32.974136
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.007135
+------------------------------
+calcul time: 0.004851
+comunication time: 0.000115
+idleness time: 0.002169
+calcul rate: 67.981724
+comunication rate: 1.614125
+idleness rate: 30.404151
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 6)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.008182
+------------------------------
+calcul time: 0.003873
+comunication time: 0.000146
+idleness time: 0.004163
+calcul rate: 47.334885
+comunication rate: 1.782720
+idleness rate: 50.882395
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 0)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.011483
+------------------------------
+calcul time: 0.009006
+comunication time: 0.000128
+idleness time: 0.002348
+calcul rate: 78.431800
+comunication rate: 1.117153
+idleness rate: 20.451047
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 5)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.007529
+------------------------------
+calcul time: 0.004199
+comunication time: 0.000340
+idleness time: 0.002990
+calcul rate: 55.766304
+comunication rate: 4.519174
+idleness rate: 39.714522
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 7)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.011744
+------------------------------
+calcul time: 0.002872
+comunication time: 0.000060
+idleness time: 0.008813
+calcul rate: 24.453260
+comunication rate: 0.509071
+idleness rate: 75.037669
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 1)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.008135
+------------------------------
+calcul time: 0.005944
+comunication time: 0.000103
+idleness time: 0.002087
+calcul rate: 73.067958
+comunication rate: 1.271820
+idleness rate: 25.660222
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:01 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 2)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:01 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: 25723
+total time: 0.113484
+------------------------------
+calcul time: 0.005672
+comunication time: 0.105714
+idleness time: 0.002098
+calcul rate: 4.997830
+comunication rate: 93.153439
+idleness rate: 1.848731
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:96 	 Thu Apr 29 06:12:11 2021
+Yao's sequential algorithm input datas
+------------------------------
+the DAG is divided by Tint/p
+------------------------------
+max number of matrix: 1024
+max number of process: 8
+
+[INFO] 	 main:110 	 Thu Apr 29 06:12:11 2021
+starting computation of Yao's sequential algorithm
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 7)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.006816
+------------------------------
+calcul time: 0.004039
+comunication time: 0.000076
+idleness time: 0.002700
+calcul rate: 59.260503
+comunication rate: 1.121785
+idleness rate: 39.617712
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 2)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.008086
+------------------------------
+calcul time: 0.005985
+comunication time: 0.000083
+idleness time: 0.002018
+calcul rate: 74.012463
+comunication rate: 1.026236
+idleness rate: 24.961301
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 5)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.007742
+------------------------------
+calcul time: 0.005237
+comunication time: 0.000078
+idleness time: 0.002427
+calcul rate: 67.645477
+comunication rate: 1.001768
+idleness rate: 31.352755
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 1)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.008902
+------------------------------
+calcul time: 0.006606
+comunication time: 0.000080
+idleness time: 0.002215
+calcul rate: 74.214914
+comunication rate: 0.898073
+idleness rate: 24.887014
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 4)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.007362
+------------------------------
+calcul time: 0.005164
+comunication time: 0.000100
+idleness time: 0.002098
+calcul rate: 70.150149
+comunication rate: 1.355446
+idleness rate: 28.494405
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 6)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.013421
+------------------------------
+calcul time: 0.004573
+comunication time: 0.000078
+idleness time: 0.008770
+calcul rate: 34.072130
+comunication rate: 0.581383
+idleness rate: 65.346487
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 3)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.009400
+------------------------------
+calcul time: 0.005042
+comunication time: 0.000096
+idleness time: 0.004262
+calcul rate: 53.638655
+comunication rate: 1.019931
+idleness rate: 45.341414
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:11 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 0)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:11 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: 25723
+total time: 0.031229
+------------------------------
+calcul time: 0.009318
+comunication time: 0.019657
+idleness time: 0.002254
+calcul rate: 29.838670
+comunication rate: 62.943227
+idleness rate: 7.218103
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:96 	 Thu Apr 29 06:12:14 2021
+Yao's sequential algorithm input datas
+------------------------------
+the DAG is divided by Tcb_optimal
+------------------------------
+max number of matrix: 1024
+max number of process: 8
+
+[INFO] 	 main:110 	 Thu Apr 29 06:12:14 2021
+starting computation of Yao's sequential algorithm
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 0)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 2)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.026056
+------------------------------
+calcul time: 0.008183
+comunication time: 0.000216
+idleness time: 0.017658
+calcul rate: 31.403840
+comunication rate: 0.828770
+idleness rate: 67.767390
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 1)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.021252
+------------------------------
+calcul time: 0.004721
+comunication time: 0.000151
+idleness time: 0.016380
+calcul rate: 22.213622
+comunication rate: 0.710879
+idleness rate: 77.075499
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.026604
+------------------------------
+calcul time: 0.006783
+comunication time: 0.000175
+idleness time: 0.019646
+calcul rate: 25.497767
+comunication rate: 0.657259
+idleness rate: 73.844974
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 4)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.068549
+------------------------------
+calcul time: 0.005511
+comunication time: 0.046638
+idleness time: 0.016400
+calcul rate: 8.039382
+comunication rate: 68.036105
+idleness rate: 23.924513
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 5)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.078081
+------------------------------
+calcul time: 0.005565
+comunication time: 0.056437
+idleness time: 0.016078
+calcul rate: 7.127694
+comunication rate: 72.280373
+idleness rate: 20.591933
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 3)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.081708
+------------------------------
+calcul time: 0.005200
+comunication time: 0.059644
+idleness time: 0.016864
+calcul rate: 6.363754
+comunication rate: 72.997154
+idleness rate: 20.639091
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 6)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: -1
+total time: 0.095188
+------------------------------
+calcul time: 0.005169
+comunication time: 0.073675
+idleness time: 0.016344
+calcul rate: 5.429884
+comunication rate: 77.399702
+idleness rate: 17.170414
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:14 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (process 7)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:14 2021
+Output datas for Yao's sequential algorithm
+------------------------------
+mcop: 25723
+total time: 0.097357
+------------------------------
+calcul time: 0.005241
+comunication time: 0.075695
+idleness time: 0.016421
+calcul rate: 5.383512
+comunication rate: 77.749803
+idleness rate: 16.866685
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:96 	 Thu Apr 29 06:12:53 2021
+Yao's sequential algorithm (Kengne et Myoupo'14) input datas
+------------------------------
+the DAG is divided by Tmax/p
+------------------------------
+max number of matrix: 1024
+max number of process: 8
+
+[INFO] 	 main:110 	 Thu Apr 29 06:12:53 2021
+starting computation of Yao's sequential algorithm (Kengne et Myoupo'14)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 7)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 5)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004013
+------------------------------
+calcul time: 0.001307
+comunication time: 0.000071
+idleness time: 0.002635
+calcul rate: 32.570450
+comunication rate: 1.769316
+idleness rate: 65.660235
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 4)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 3)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004247
+------------------------------
+calcul time: 0.001291
+comunication time: 0.000097
+idleness time: 0.002860
+calcul rate: 30.386322
+comunication rate: 2.278694
+idleness rate: 67.334984
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 1)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004043
+------------------------------
+calcul time: 0.001334
+comunication time: 0.000087
+idleness time: 0.002622
+calcul rate: 32.987789
+comunication rate: 2.147299
+idleness rate: 64.864912
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004300
+------------------------------
+calcul time: 0.001393
+comunication time: 0.000076
+idleness time: 0.002831
+calcul rate: 32.404250
+comunication rate: 1.770994
+idleness rate: 65.824756
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004437
+------------------------------
+calcul time: 0.001826
+comunication time: 0.000101
+idleness time: 0.002509
+calcul rate: 41.159937
+comunication rate: 2.279159
+idleness rate: 56.560904
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 6)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.003829
+------------------------------
+calcul time: 0.001224
+comunication time: 0.000047
+idleness time: 0.002558
+calcul rate: 31.961034
+comunication rate: 1.219409
+idleness rate: 66.819557
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 0)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.005152
+------------------------------
+calcul time: 0.002374
+comunication time: 0.000084
+idleness time: 0.002695
+calcul rate: 46.081733
+comunication rate: 1.620621
+idleness rate: 52.297646
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:53 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 2)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:53 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: 25723
+total time: 0.037733
+------------------------------
+calcul time: 0.003662
+comunication time: 0.030974
+idleness time: 0.003097
+calcul rate: 9.704271
+comunication rate: 82.088641
+idleness rate: 8.207088
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:96 	 Thu Apr 29 06:12:56 2021
+Yao's sequential algorithm (Kengne et Myoupo'14) input datas
+------------------------------
+the DAG is divided by Tint/p
+------------------------------
+max number of matrix: 1024
+max number of process: 8
+
+[INFO] 	 main:110 	 Thu Apr 29 06:12:56 2021
+starting computation of Yao's sequential algorithm (Kengne et Myoupo'14)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 4)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004185
+------------------------------
+calcul time: 0.001501
+comunication time: 0.000078
+idleness time: 0.002606
+calcul rate: 35.865584
+comunication rate: 1.863036
+idleness rate: 62.271380
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 2)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004383
+------------------------------
+calcul time: 0.001597
+comunication time: 0.000115
+idleness time: 0.002670
+calcul rate: 36.445694
+comunication rate: 2.631232
+idleness rate: 60.923074
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 7)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 1)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 6)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004608
+------------------------------
+calcul time: 0.001315
+comunication time: 0.000060
+idleness time: 0.003233
+calcul rate: 28.534549
+comunication rate: 1.295315
+idleness rate: 70.170136
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.005676
+------------------------------
+calcul time: 0.001357
+comunication time: 0.000075
+idleness time: 0.004244
+calcul rate: 23.909725
+comunication rate: 1.323244
+idleness rate: 74.767031
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.003625
+------------------------------
+calcul time: 0.001222
+comunication time: 0.000041
+idleness time: 0.002361
+calcul rate: 33.714750
+comunication rate: 1.136993
+idleness rate: 65.148257
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 5)
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 3)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.003958
+------------------------------
+calcul time: 0.001497
+comunication time: 0.000065
+idleness time: 0.002397
+calcul rate: 37.817848
+comunication rate: 1.633211
+idleness rate: 60.548941
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: -1
+total time: 0.004055
+------------------------------
+calcul time: 0.001540
+comunication time: 0.000080
+idleness time: 0.002435
+calcul rate: 37.974293
+comunication rate: 1.976884
+idleness rate: 60.048823
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+
+[INFO] 	 main:163 	 Thu Apr 29 06:12:56 2021
+compiii-HP-Pavilion-Gaming-Laptop-15-cx0xxx ends computation of Yao's sequential algorithm (Kengne et Myoupo'14) (process 0)
+[INFO] 	 main:187 	 Thu Apr 29 06:12:56 2021
+Output datas for Yao's sequential algorithm (Kengne et Myoupo'14)
+------------------------------
+mcop: 25723
+total time: 0.050766
+------------------------------
+calcul time: 0.002023
+comunication time: 0.046256
+idleness time: 0.002487
+calcul rate: 3.985308
+comunication rate: 91.114880
+idleness rate: 4.899811
+number of message exchange: 0
+size of data communicate: 0.000000 MB
+

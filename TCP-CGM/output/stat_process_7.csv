@@ -1,0 +1,2 @@
+algortihm-id;paritioning-technique;max-process;rank;max-number-matrix;total-time;calcul-time;com-time;idleness-time;calcul-rate;com-rate;idleness-rate;nb-message-exchange;size-data-com;size-data-com-in-mb;tcp;
+1;3;8;7;1024;0.097357;0.005241;0.075695;0.016421;5.383512;77.749803;16.866685;0;0;0.000000;25723;
