@@ -271,40 +271,6 @@ void markBridges()
             cone.idSegmentSonRight = -1;
             cone.nodeList = createNodeList();
             tabCone[cone.idSegment] = cone;
-
-            if (algorithmId == 3000)
-            {
-                Stack *path = s;
-                Node node;
-                while (path->next != NULL)
-                {
-                    node = *(Node *)path->data;
-                    if (node.w < pivot.w)
-                    {
-                        tabCone[cone.idSegment - 1].nodeList = addNodeToNodeList(tabCone[cone.idSegment - 1].nodeList, node);
-                        tabCone[cone.idSegment].nodeList = addNodeToNodeList(tabCone[cone.idSegment].nodeList, node);
-                    }
-                    path = path->next;
-                }
-                tabCone[cone.idSegment - 1].nodeList = addNodeToNodeList(tabCone[cone.idSegment - 1].nodeList, pivot);
-                tabCone[cone.idSegment].nodeList = addNodeToNodeList(tabCone[cone.idSegment].nodeList, pivot);
-
-                if (tabSegment[tabCone[cone.idSegment - 1].idSegment].type == 1)
-                {
-                    segment = tabSegment[tabCone[cone.idSegment - 1].idSegment];
-                    tmp = (segment.i.w < segment.j.w ? segment.i : segment.j);
-                    if (tmp.w != tabCone[cone.idSegment - 1].nodeList->node.w)
-                        tabCone[cone.idSegment - 1].nodeList = addNodeToNodeList(tabCone[cone.idSegment - 1].nodeList, tmp);
-                }
-
-                if (tabSegment[tabCone[cone.idSegment].idSegment].type == 1)
-                {
-                    segment = tabSegment[tabCone[cone.idSegment].idSegment];
-                    tmp = (segment.i.w < segment.j.w ? segment.i : segment.j);
-                    if (tmp.w != tabCone[cone.idSegment].nodeList->node.w)
-                        tabCone[cone.idSegment].nodeList = addNodeToNodeList(tabCone[cone.idSegment].nodeList, tmp);
-                }
-            }
         }
     }
 }
