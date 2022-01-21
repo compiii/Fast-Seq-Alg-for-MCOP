@@ -6,7 +6,7 @@ This repository stores sequential algorithms and parallel algorithms (in the Coa
     - Godbole [dx.doi.org/10.1109/TC.1973.5009182](https://dx.doi.org/10.1109/TC.1973.5009182)
     - Yao's speed-up [dx.doi.org/10.1137/0603055](https://dx.doi.org/10.1137/0603055)
     - Myoupo and Kengne's enhancement based on the Yao's speed-up [dx.doi.org/10.4018/ijghpc.2014040105](https://dx.doi.org/10.4018/ijghpc.2014040105)
-    - Lacmou et *al.* based on the Yao's speed-up (our own)
+    - Lacmou et *al.* based on the Yao's speed-up (our own) [dx.doi.org/10.1002/cpe.6445](https://doi.org/10.1002/cpe.6445)
 2.  CGM-based Parallel algorithms using the OpenMPI librairy:
     - Kechid and Myoupo [amazon's book](https://www.amazon.fr/Programmation-dynamique-mod%C3%A8les-calcul-parall%C3%A8le/dp/6131592527/)
     - Myoupo and Kengne [dx.doi.org/10.4018/ijghpc.2014040105](https://dx.doi.org/10.4018/ijghpc.2014040105)
